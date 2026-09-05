@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Sonic Wave",
+    "author": "CrystalGD",
+    "creators": ["Cyclic"],
+    "verifier": "CrystalGD",
+    "verification": "https://www.youtube.com/watch?v=qX1UNXvkvqY",
+    "percentToQualify": 66,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Lubu13",
+            "link": "https://www.youtube.com/watch?v=9qPIZBBrVzo,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
